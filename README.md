@@ -1,1 +1,2 @@
-# Comp271-Hmwrk-6
+# HashTable
+Quadratic probing in C++
